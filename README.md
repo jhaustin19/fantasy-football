@@ -3,7 +3,7 @@
 - My goal for this project was to use machine learning in order to predict who the most valuable players would be in the upcoming 2020 fantasy football season
 - Idea was to use a player's statistics in year _n_ as features for a predictive model that projects points scored in year _n + 1_
 - Using a neural network, I was able to make projections that were on average about 50-60 points off from a player's true total for the following year
-- After feeding the model 2019 data, I got projections for the 2020 season
+- After feeding the model data for the 2019 season, I got projections for the 2020 season
 
 # Background
 
